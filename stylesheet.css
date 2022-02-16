@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 Jan, 2022, 12:36:51 AM
+    Author     : Arijit
+*/
+table{
+    font-family: serif;
+    font-style: normal;
+    color: aqua;
+    width: 70%;
+    border-color: transparent;
+    //background-image: "https://inspirationseek.com/wp-content/uploads/2014/09/Venice-Italy-at-Night-Wallpaper-720x340.jpg";
+}
+#t{
+    color: darkturquoise;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#ddt{
+    background-color: cadetblue;
+    font-family: cursive;
+    
+td{
+    align-items: center;
+}
+#header{
+    height: 10px;
+    font-family: cursive;
+    font-size: x-large;
+    font-style: oblique;
+}
