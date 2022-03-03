@@ -91,7 +91,7 @@
                 { %>
                     <center>
                         <h3>Your diary is entered for today. Please come back tomorrow....!!!</h3>
-                        <h4><a href="login_options.jsp">click to view your today's diary</a> at the selected date</h4>
+                        <h4><a href="login_options.jsp">click to view your today's diary</a> at this date.....</h4>
                     </center>
                     <%
                         }
@@ -121,10 +121,8 @@
             }
         
 
-                    %><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <div id="container" class="bg-success text-white text-center p-2">
-                            &AMP; copy<br>
-                            <a href="index.html">Home</a>
-                        </div>
+                    %>
+        <div class="fixed-bottom bg-dark text-center text-white">&copy; copyright 2022
+                            <a href="index.html">Home</a></div>
     </body>
 </html>

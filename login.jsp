@@ -112,9 +112,7 @@ finally {
 	}
 }
 %>
-<div id="container" class="bg-success text-white text-center p-2">
-                            &AMP; copy<br>
-                            <a href="index.html">Home</a>
-                        </div>
+<div class="fixed-bottom bg-dark text-center text-white">&copy; copyright 2022
+                            <a href="index.html">Home</a></div>
 </body>
 </html>

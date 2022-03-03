@@ -15,6 +15,10 @@ table{
     border-color: transparent;
     //background-image: "https://inspirationseek.com/wp-content/uploads/2014/09/Venice-Italy-at-Night-Wallpaper-720x340.jpg";
 }
+.foot{
+    margin-bottom: 0px;
+    
+}
 #t{
     color: darkturquoise;
     font-size: 20px;
